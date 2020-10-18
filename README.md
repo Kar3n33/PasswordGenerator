@@ -11,3 +11,6 @@ https://kar3n33.github.io/PasswordGenerator/
 
 Screenshot of application home page:
 
+<img src =https://github.com/Kar3n33/PasswordGenerator/blob/main/Assets/PasswordGeneratorScreenshot.png> 
+
+
